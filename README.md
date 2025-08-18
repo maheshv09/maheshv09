@@ -33,9 +33,11 @@
 
 ## 📌 Highlighted Projects  
 
-🔹 [**InnoVenture**](#) — One-stop solution for startups & investors with profiles, equity offerings, product marketplace & video conferencing.  
-🔹 [**DeepTrace AI**](#) — AI-powered compliance auditing & anomaly detection using LLMs + ML models.  
-🔹 [**Personalized Mental Health Analyser**](#) — Federated ML-based platform with chatbot & recommendation engine ensuring user privacy.  
+🔹 **InnoVenture** — One-stop solution for startups & investors with profiles, equity offerings, product marketplace & video conferencing. (Frontend & Backend repos)  
+
+🔹 **DeepTrace AI** — AI-powered compliance auditing & anomaly detection using LLMs + ML models. *(Kept private as per NDA with Dell Technologies)*  
+
+🔹 **Personalized Mental Health Analyser** — Federated ML-based platform with chatbot & recommendation engine ensuring user privacy. (Frontend & Backend repos)  
 
 ---
 
