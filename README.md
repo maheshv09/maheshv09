@@ -2,12 +2,12 @@
 
 🎓 **B.E. Computer Engineering (Honors in Data Science)** — PICT Pune (2021–2025)  
 🏆 **1st Rank** in Pune University Examinations  
-💻 **Software Developer @ eQ Technologic**  
+💻 **Software Developer @ Barclays**  
 
 ---
 
 ## 🚀 About Me  
-- 🔹 Full Stack Developer with expertise in **Java Spring Boot + React**  
+- 🔹 Full Stack Developer at Barclays with expertise in **Java Spring Boot Microservices + React**  
 - 🔹 Internship experience at **Dell Technologies**, **Northern Trust**, and **eQ Technologic**  
 - 🔹 Built and deployed **production-grade features** used by global enterprise clients  
 - 🔹 Worked on **ML/AI-powered anomaly detection systems** and **enterprise-scale integration platforms**  
