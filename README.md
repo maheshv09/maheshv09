@@ -8,9 +8,9 @@
 
 ## 🚀 About Me  
 - 🔹 Full Stack Developer at Barclays with expertise in **Java Spring Boot Microservices + React**  
-- 🔹 Internship experience at **Dell Technologies**, **Northern Trust**, and **eQ Technologic**  
+- 🔹 Internship experience at **Dell Technologies(AI Internship)**, **Northern Trust**, and **eQ Technologic**  
 - 🔹 Built and deployed **production-grade features** used by global enterprise clients  
-- 🔹 Worked on **ML/AI-powered anomaly detection systems** and **enterprise-scale integration platforms**  
+- 🔹 Worked on **AI/ML-powered anomaly detection systems** and **enterprise-scale integration platforms**  
 - 🔹 Passionate about **cloud (GCP, Azure)**, scalable systems, and building impactful software  
 
 ---
@@ -21,13 +21,13 @@
 `Java` `Python` `C++` `SQL`  
 
 **Frameworks & Tools:**  
-`Spring Boot` `React.js` `Node.js` `Express.js` `CI/CD` `Git`  
+`Spring Boot` `React.js` `Node.js` `Express.js` `CI/CD` `Git` `Kafka`
 
 **Databases & Cloud:**  
 `Oracle DB` `MS SQL` `MongoDB` `Google Cloud` `Azure` `VMware CF` `Docker`  
 
-**Other Skills:**  
-`Kafka` `LLM / AI/ML` `REST APIs` `Agile (JIRA, Confluence)`  
+**AI:**  
+`LLM - AI` `RAG` `Agentic AI`  
 
 ---
 
@@ -37,14 +37,15 @@
 
 🔹 **DeepTrace AI** — AI-powered compliance auditing & anomaly detection using LLMs + ML models. *(Kept private as per NDA with Dell Technologies)*  
 
-🔹 **Personalized Mental Health Analyser** — Federated ML-based platform with chatbot & recommendation engine ensuring user privacy. (Frontend & Backend repos)  
+🔹 **Personalized Mental Health Analyser using Federated Machine Learning** — Federated ML-based platform with chatbot & recommendation engine ensuring user privacy. (Frontend & Backend repos)  
 
 ---
 
 ## 🌟 Achievements  
 🏅 1st Rank in Pune University (TE & BE)  
 🥈 2nd place — **National Project Competition InnoveX 2025** (AIT)  
-🥉 3rd place — **Impetus & Concepts 2025** (PICT)  
+🥉 3rd place — **Impetus & Concepts 2025** (PICT)
+🥉 3rd place — **Impetus & Concepts 2023** (PICT) 
 ✨ Student of the Year (10th & 12th Board Examinations)  
 
 ---
